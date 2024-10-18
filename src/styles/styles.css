@@ -1,0 +1,48 @@
+body {
+    font-family: var(--font-family-base);
+    color: var(--color-primary);
+    margin: 0 23rem;
+}
+
+header {
+   text-align: start;
+}
+
+.title {
+    font-size: 2.5em;
+    margin-bottom: var(--spacing-large);
+}
+
+.description {
+    font-size: 1.2em;
+    color: var(--color-secondary);
+    font-style: italic;
+    margin-bottom: var(--spacing-small);
+}
+
+
+
+img {
+    margin-bottom: var(--spacing-large);
+}
+
+.subtitle {
+    font-size: 2em;
+    margin-top: var(--spacing-large);
+    margin-bottom: var(--spacing-small);
+}
+
+.ingredients_name {
+    font-size: 1.3rem;
+    margin: 1rem 0;
+}
+
+ul,
+ol {
+    margin-left: var(--spacing-large);
+}
+
+ul li,
+ol li {
+    margin-bottom: var(--spacing-small);
+}

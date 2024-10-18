@@ -1,0 +1,11 @@
+:root {
+    --color-primary: #141414;
+    --color-secondary: #4e4e4e;
+    --font-family-base: 'Arial, sans-serif';
+
+    --spacing-small: 8px;
+    --spacing-medium: 16px;
+    --spacing-large: 24px;
+}
+
+  

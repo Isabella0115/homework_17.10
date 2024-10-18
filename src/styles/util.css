@@ -1,0 +1,35 @@
+.text-align-start {
+    text-align: start;
+}
+
+.font-style-italic {
+    font-style: italic;
+}
+
+.margin-0 {
+    margin: 0;
+}
+
+.margin-auto {
+    margin: 0 auto;
+}
+
+.margin-large {
+    margin-bottom: var(--spacing-large);
+}
+
+.margin-small {
+    margin-bottom: var(--spacing-small);
+}
+
+.max-width-800 {
+    max-width: 800px;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.height-auto {
+    height: auto;
+}
